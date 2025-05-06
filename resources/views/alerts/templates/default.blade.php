@@ -1,7 +1,7 @@
 
 <html>
     <head>
-        <title>LibreNMS Alert</title>
+        <title>TelantelNMS Alert</title>
     </head>
     <body>
         <div class="container">
